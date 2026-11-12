@@ -1,9 +1,8 @@
 # 🌊 OASIS — Oil-spill Attribution & Satellite Intelligence System
 ### Marine Forensics Platform for the Indian Coast Guard
 
-> Built for Smart India Hackathon 2026 · Problem Statement SIH26143  
-> Organization: National Technical Research Organisation (NTRO) / Indian Coast Guard (ICG)  
-> Framework: National Oil Spill Disaster Contingency Plan (NOS-DCP) · **Team Alpha**
+> Semester 5 Mini Project · Image and Video Processing Lab (CSET344)  
+> Department of Computer Science & Engineering · **Team Alpha**
 
 ---
 
@@ -296,5 +295,5 @@ Generated via `POST /api/v1/report/generate`, the PDF includes:
 
 ## License
 
-This project was developed for Smart India Hackathon 2026 (SIH26143).  
+This project was developed as a Semester 5 Mini Project for the Image and Video Processing Lab (CSET344).  
 © 2026 Team Alpha. All rights reserved.

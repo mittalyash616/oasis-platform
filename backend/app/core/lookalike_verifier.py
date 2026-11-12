@@ -1,7 +1,7 @@
 """
 model2_inference.py
 ====================
-SIH26143 — Marine Oil Spill Detection, Hindcast Drift & Vessel Attribution Platform
+OASIS — Marine Oil Spill Detection, Hindcast Drift & Vessel Attribution Platform
 MODEL 2: SAR Look-Alike & Radiometric Forensic Verification Engine
 
 Role in pipeline (see architecture.txt, Layer 3):
@@ -34,7 +34,7 @@ Physical basis (from project brief):
     where the CNN's learned texture prior is most valuable, which is why we
     fuse CNN probability with the physics rule rather than using either alone.
 
-Author: Model 2 owner — SIH26143 CV/SAR team
+Author: Model 2 owner — OASIS CV/SAR team
 """
 
 from __future__ import annotations
