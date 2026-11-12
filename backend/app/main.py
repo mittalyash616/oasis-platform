@@ -5,7 +5,7 @@ from app.api.v1.endpoints import router as api_v1_router
 
 app = FastAPI(
     title="OASIS — Oil-spill Attribution & Satellite Intelligence System",
-    description="Marine Forensics Platform for the Indian Coast Guard. Automated SAR detection, hindcast drift modeling, and AIS vessel attribution API. Semester 5 Mini Project (CSET344) · Team Alpha.",
+    description="Marine Forensics Platform for the Indian Coast Guard. Automated SAR detection, hindcast drift modeling, and AIS vessel attribution API. Team Alpha.",
     version="1.0.0"
 )
 
