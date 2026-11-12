@@ -3,7 +3,7 @@
 
 > Built for Smart India Hackathon 2026 · Problem Statement SIH26143  
 > Organization: National Technical Research Organisation (NTRO) / Indian Coast Guard (ICG)  
-> Framework: National Oil Spill Disaster Contingency Plan (NOS-DCP) · **Team DDOS**
+> Framework: National Oil Spill Disaster Contingency Plan (NOS-DCP) · **Team Alpha**
 
 ---
 
@@ -142,8 +142,8 @@ Oasis-main/
 ### 1 — Clone & enter the project
 
 ```bash
-git clone https://github.com/your-org/oasis.git
-cd oasis
+git clone https://github.com/mittalyash616/oasis-platform.git
+cd oasis-platform
 ```
 
 ### 2 — Backend setup
@@ -297,4 +297,4 @@ Generated via `POST /api/v1/report/generate`, the PDF includes:
 ## License
 
 This project was developed for Smart India Hackathon 2026 (SIH26143).  
-© 2026 Team DDOS. All rights reserved.
+© 2026 Team Alpha. All rights reserved.
